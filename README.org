@@ -1,0 +1,10 @@
+* cl-union-find
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/varjagg/cl-union-find.git   |
+| commit  | 676b043  |
+| systems | cl-union-find |
+|---------+-------------------------------------------|
+
